@@ -15,7 +15,7 @@ put the api key here
 API_KEY= "PUT YOU API KEY HERE" 
 ```
 
-Example if you API key is "WSAD64566546WSAD64566546"
+Example if you API key is *"WSAD64566546WSAD64566546"
 put it like this
 ``` py
 API_KEY= "WSAD64566546WSAD64566546" 
