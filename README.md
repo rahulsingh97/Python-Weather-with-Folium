@@ -11,12 +11,12 @@ to get api key you need to visit https://openweathermap.org/api
  * Current Weather Data -> subscribe -> Free -> Get API key
 put the api key here
 
-'''py
+``` py
 API_KEY= "PUT YOU API KEY HERE" 
-'''
+```
 
 Example if you API key is "WSAD64566546WSAD64566546"
 put it like this
-'''py
+``` py
 API_KEY= "WSAD64566546WSAD64566546" 
-'''
+```
