@@ -1,7 +1,9 @@
 # Python-Weather-with-Folium
-## this code is noob friendly
-GET CITY AND WEATHER DATA WITH MAP
 
+## this code is noob friendly
+i've tried my best to make this code easy to understand, so that even a beginner can understand it easily 
+
+GET CITY AND WEATHER DATA WITH MAP USING REST-API AND FOLIUM
 
 to get api key you need to visit https://openweathermap.org/api
 
